@@ -13,7 +13,7 @@ module.exports = {
     backgroundImage:{
       'hero-image':'linear-gradient(rgba(0, 13, 26, 0.6),rgba(0, 13, 26, 0.6)), url("../../src/images/top-view-meals-tasty-yummy-different-pastries-dishes-brown-surface.jpg")',
       // 'fanzone-image':'linear-gradient(rgba(72.5, 11, 11, 0.6),rgba(72.5, 11, 11, 0.6)), url("../../src/images/football-player-wearing-number-10-jersey.jpg")',
-      'fanzone-image':'linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)), url("../../src/images/table-setting.jpg")',
+      'fanzone-image':'linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)), url("../../src/images/arroma.jpg")',
       'store-image':'linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)), url("../../src/images/4EC98E23-61DD-40EE-9324-24DC4E8EF990.JPG")',
       'store1-image':'linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)), url("../../src/images/AD3A0A60-9DDD-470A-8C63-D75CEBA7C9A3.JPG")',
       'store2-image':'linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6)), url("../../src/images/27CB4CA2-112B-4EA3-AD17-B2ED510DC7D4.JPG")',
