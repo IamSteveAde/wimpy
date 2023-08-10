@@ -6,7 +6,7 @@ module.exports = {
       colors: {
         'dark-bg':'hsl(0 0% 30% / 0.25)',
         'back-bg':'hsl(0 0% 0% / 0.25)',
-        "custom-red": "rgb(239, 65, 2)"
+        "custom-red": "rgb(169, 8, 8)"
 
       }
     },
