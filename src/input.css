@@ -221,7 +221,7 @@ body{
 }
 @keyframes spin {
   0% { content:"WELCOME TO";}
-  30% { content:"WIMPY RESTAURANT,";}
+  30% { content:"AROMA EATERY,";}
   /* 40% { content:"WE ARE";} */
   60% { content: "WHERE GUESTS FEEL,"; }
   /* 80% { content: "WE ARE"; } */
